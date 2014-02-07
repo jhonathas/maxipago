@@ -4,9 +4,9 @@ require "maxipago/version"
 Gem::Specification.new do |spec|
   spec.name        = "maxipago"
   spec.version     = Maxipago::VERSION
-  spec.authors     = ["Bruno Barros"]
-  spec.email       = ["brunosoab@gmail.com"]
-  spec.homepage    = "https://github.com/brunosoab/maxipago"
+  spec.authors     = ["Bonera"]
+  spec.email       = ["dev@bonera.com.br"]
+  spec.homepage    = "https://github.com/bonera/maxipago"
   spec.summary     = %q{Wrapper for the Maxipago API}
   spec.description = %q{This gem provides Maxipago API integration with Rails applications.}
   spec.required_rubygems_version = ">= 1.3.6"
